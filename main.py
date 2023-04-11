@@ -5,7 +5,7 @@ import openai
 
 
 # Apply the API Key
-openai.api_key = "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"
+openai.api_key = "YOUR_OPENAI_KEY"
 
 # Generate a response using OpenAI GPT-3
 
